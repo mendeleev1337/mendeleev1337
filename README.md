@@ -1,5 +1,5 @@
 ### hi there 👋,
-#### or 14 y.o. kid from russia
+#### 14 y.o. kid from russia
 
 - 🔭 i’m currently working on myself. 
 - 📫 how to reach me:   
