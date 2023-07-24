@@ -1,7 +1,7 @@
 ### hi there 👋,
 #### 14 y.o. kid from russia
 
-- 🔭 i’m currently working on myself. 
+- 🔭 i’m currently working on [![ro-dora](https://github.com/mendeleev1337/ro-dora/). 
 - 📫 how to reach me:   
    | discord: mendeleev#1637
 
