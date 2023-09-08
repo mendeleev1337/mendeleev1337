@@ -1,7 +1,7 @@
 ### hi there 👋,
 #### 15 y.o. kid from russia
 
-- 🔭 i’m currently working on [ro-dora](https://github.com/mendeleev1337/ro-dora/).
+- 🔭 i’m currently working on [mintui](https://github.com/mendeleev1337/mintui/).
 - 📫 how to reach me:   
    | discord: banned
    | telegram: [click](mendeleev1337.t.me)
